@@ -2,6 +2,6 @@
 A marketplace for used car - make buying and selling used cars painless
 
 # Getting starting
-make sure you have nodejs installed, ASP.Net core verion 1+
+make sure you have nodejs installed and ASP.Net core verion 1+
 
-`cd mobli && dotnet watch run
+`cd mobli && dotnet watch run`
